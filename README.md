@@ -40,6 +40,7 @@ This project is a **Smart Watch Product Page** built using **HTML, TailwindCSS**
    ```bash
    git clone https://github.com/your-username/smart-watch-shop.git  
    cd smart-watch-shop
+   npm start
    ```  
 
 
