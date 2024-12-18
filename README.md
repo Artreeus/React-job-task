@@ -2,7 +2,7 @@
 
 # Smart Watch Shop  
 
-**Live Preview**: []
+**Live Preview**: [https://reactjobtask.netlify.app/]
 
 ## Project Overview  
 This project is a **Smart Watch Product Page** built using **HTML, TailwindCSS**, and **JavaScript , Typescript , ReactJs**. It features dynamic interactivity such as product image updates, size and color selection, quantity management, and a cart modal for checkout functionality.  
